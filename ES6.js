@@ -97,6 +97,7 @@ var nama = ['Andi' , 'Seto']
 
 var [a,b] = nama
 
+var a = 'Halo'
 console.log(a)
 
 
